@@ -1,2 +1,1 @@
-Config-Files
-============
+Configuration files 
