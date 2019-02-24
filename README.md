@@ -1,4 +1,4 @@
-# Config file
+# Config files
 
 Stash of the config files I use
 
