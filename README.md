@@ -5,7 +5,7 @@ Stash of the config files I use
 ## vimrc
 
 Customzied config for VIM, that includes a theme and quite a few tweaks. Most of the optimization is done to make programming easier.
-Highly recommend reading this, not just for Python but general VIM enhancements: [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/#nix-linux)
+Highly recommend reading [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/#nix-linux) - not just for Python but general VIM enhancements.
 
 ## tmux.conf
 
